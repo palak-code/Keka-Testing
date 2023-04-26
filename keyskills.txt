@@ -1,0 +1,1 @@
+Manual Testing, Performance testing using Jmeter and Blazemeter, GT matrix, Basic API testing using                           RPA Learning
